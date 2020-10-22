@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Jellyfin.Common" Version="10.6.0" />
+		<PackageReference Include="Jellyfin.Controller" Version="10.6.0" />
+		<PackageReference Include="System.Text.Encoding.CodePages" Version="4.7.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="Images\" />
+	</ItemGroup>
+</Project>

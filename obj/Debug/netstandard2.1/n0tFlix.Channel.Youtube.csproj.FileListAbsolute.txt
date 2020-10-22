@@ -1,0 +1,9 @@
+E:\Git\n0tFlix.Channel.Youtube\bin\Debug\netstandard2.1\n0tFlix.Channel.Youtube.deps.json
+E:\Git\n0tFlix.Channel.Youtube\bin\Debug\netstandard2.1\n0tFlix.Channel.Youtube.dll
+E:\Git\n0tFlix.Channel.Youtube\obj\Debug\netstandard2.1\n0tFlix.Channel.Youtube.csprojAssemblyReference.cache
+E:\Git\n0tFlix.Channel.Youtube\obj\Debug\netstandard2.1\n0tFlix.Channel.Youtube.AssemblyInfoInputs.cache
+E:\Git\n0tFlix.Channel.Youtube\obj\Debug\netstandard2.1\n0tFlix.Channel.Youtube.AssemblyInfo.cs
+E:\Git\n0tFlix.Channel.Youtube\obj\Debug\netstandard2.1\n0tFlix.Channel.Youtube.csproj.CoreCompileInputs.cache
+E:\Git\n0tFlix.Channel.Youtube\bin\Debug\netstandard2.1\n0tFlix.Channel.Youtube.pdb
+E:\Git\n0tFlix.Channel.Youtube\obj\Debug\netstandard2.1\n0tFlix.Channel.Youtube.dll
+E:\Git\n0tFlix.Channel.Youtube\obj\Debug\netstandard2.1\n0tFlix.Channel.Youtube.pdb
